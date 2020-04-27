@@ -1,1 +1,4 @@
 inital content
+git training
+react js training
+node  js trainig
